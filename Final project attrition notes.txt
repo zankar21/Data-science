@@ -1,0 +1,57 @@
+#Final project on Attrition data on R programming#
+
+#column which can be remove
+1.Employee count
+2. over 18
+3. standard hours
+
+
+
+#Co-relatetion with independent varaiable
+1. daily rate
+2. hourly rate
+3. monthly rate
+
+
+# column which need to convert from numeric to factor
+1. Education
+2. Enviornment satisfaction
+3. job satisfaction
+4. Job involvement
+5. Performance rating
+6. Relationship satisfaction
+7. worklife  balance
+
+#drop column which is not significant
+1. business travel
+2. department
+3. education field
+4. environment satisfaction
+5. gender
+6. job involvement
+7. jobrole
+8. job satisfaction
+9. marital status
+10. overtime
+11. performance rating
+12. relationship satisfaction
+13. stock option level
+
+
+#significant varaiables
+
+> factorial variables
+1. education
+2. job level
+3. worklifebalance
+
+> Numerica variables
+
+1. age ***
+2. distance from home **
+3. monthly income ***
+4. total working years ***
+5. years at company ***
+
+
+
